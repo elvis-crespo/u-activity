@@ -1,0 +1,25 @@
+/* Ejercicio 1: CSS Inline Styles */
+.ejercicio1 p {
+    color: red;
+}
+
+/* Ejercicio 2: Enlace a un archivo CSS externo */
+.ejercicio2 h1, .ejercicio2 p {
+    /* Puedes agregar más estilos si es necesario */
+}
+
+/* Ejercicio 3: CSS Margin */
+.ejercicio3 h1 {
+    margin-left: 20px;
+}
+
+/* Ejercicio 4: CSS Text Color */
+.ejercicio4 p {
+    color: red;
+}
+
+/* Ejercicio 5: CSS Borders and Background */
+.ejercicio5 div {
+    background: red;
+    border-radius: 10px;
+}
